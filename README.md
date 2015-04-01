@@ -89,4 +89,3 @@ Excerpt from `src/prompt.asm':
 27 
 28      section .data
 29  prompt:     db "Input number: ", 0
-
