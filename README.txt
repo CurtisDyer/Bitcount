@@ -1,8 +1,3 @@
-Curtis Dyer
-CS-3
-03/15/2015
-Midterm
-
                          EXPLANATION OF CODE
                          -------------------
 
